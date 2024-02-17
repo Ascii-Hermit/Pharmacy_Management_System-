@@ -1,0 +1,1 @@
+This project is pharamacy management system that can keep track of inventory, ensure that the goods and within the expiry date and send alerts when the stock is low. This project was made using Java and JavaFX with the help of Scene Builder.
